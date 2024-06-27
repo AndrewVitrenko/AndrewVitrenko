@@ -11,24 +11,22 @@ mentorship.
 
 ### Experience
 
-- **Project Leadership:** Led the evolution of projects from MVP to `large-scale`
+- 🛠️ **Project Leadership:** Led the evolution of projects from MVP to `large-scale`
   products, contributing to `significant revenue growth`.
-- **A/B Testing:** Implemented features that increased conversion rates by
+- 📈 **A/B Testing:** Implemented features that increased conversion rates by
   `10-15%`.
-- **Architecture Enhancement:** Improved module architecture, reducing
+- 🏗️ **Architecture Enhancement:** Improved module architecture, reducing
   development time by `5x`.
-- **Data Structure Optimization:** Streamlined data storage and eliminated
+- 🗄️ **Data Structure Optimization:** Streamlined data storage and eliminated
   complex parsing needs.
-- **Database Migration:** Managed seamless database migration with iterative
+- 🔄 **Database Migration:** Managed seamless database migration with iterative
   flow.
-- **UI System Development:** Developed comprehensive UI systems and `UI-kits`,
+- 🎨 **UI System Development:** Developed comprehensive UI systems and `UI-kits`,
   enhancing interface consistency and efficiency.
-- **Onboarding and Mentorship:** Onboarded and mentored 5+ team members,
+- 🧑‍🤝‍🧑 **Onboarding and Mentorship:** Onboarded and mentored new team members,
   fostering collaboration.
-- **Performance Optimization:** Enhanced application performance by `300%`.
-- **Store and API Enhancements:** Simplified store architecture, improving API
-  efficiency by `40%`.
-- **UI/UX Development:** Designed and implemented complex UI features, enhancing
+- ⚡ **Performance Optimization:** Enhanced application performance by `300%`.
+- 💡 **UI/UX Development:** Designed and implemented complex UI features, enhancing
   user engagement.
 
 ---
